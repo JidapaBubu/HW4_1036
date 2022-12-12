@@ -5,6 +5,13 @@
         Tree<string> t = new Tree<string>();
         string name;
 
+        while(true){
+            int day = Console.ReadLine();
+            int node = int.Parse(Console.ReadLine());
+    
+            Console.WriteLine(day);
+        }
+
     }
     
     /*สุดความสามารถแล้วจริวค่ะอาจาร์ย ขออนุญาตเขียนอธิบาย
